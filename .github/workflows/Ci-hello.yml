@@ -1,9 +1,9 @@
-name: CI-HelloWorld
+name: CI-Hello
 
 on:
   push:
     branches:
-      - main
+      - trail
   workflow_dispatch:
 
 jobs:
